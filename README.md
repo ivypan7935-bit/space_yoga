@@ -506,8 +506,7 @@
           <div class="info-val">明曜旗艦館</div>
         </div>
       </div>
-      <a class="cta-btn" href="https://space.yoga.tw" target="_blank">把這兩天留給自己 → 立即報名</a>
-      <button class="reset-btn" onclick="resetQuiz()">重新測驗</button>
+     <a class="cta-btn" href="https://www.withinspace.com/zh-tw/academy/TeacherTraining/576" target="_blank">把這兩天留給自己 → 立即報名</a>
     </div>
   </div>
 
